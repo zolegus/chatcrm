@@ -1,0 +1,9 @@
+[package]
+name = "chatcrm"
+license = "MIT"
+version = "0.1.0"
+edition = "2021"
+authors = ["Oleg Zherebkin <zolegus@gmail.com>"]
+description = "chatCRM is an solution designed to streamline and enhance customer interactions through popular messaging platforms."
+
+[dependencies]
